@@ -265,3 +265,68 @@ h2 {
   height: 80vh;
   background: rgb(35, 39, 42);
 }
+.listes {
+  float: right;
+  display: flex;
+  margin: 20px 80px 0 20px;
+}
+.part6 ul li {
+  display: flex;
+  margin: 10px 30px 0 20px;
+  color: white;
+}
+
+.part6 ul li a {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.part6 ul li a:hover {
+  text-decoration: underline;
+}
+.aa {
+  color: rgb(49, 59, 167);
+}
+.aa a:hover {
+  text-decoration: none;
+}
+.part6 h1 {
+  position: absolute;
+  margin: 85px 0 0 80px;
+  font-family: "font-1";
+  font-size: 40px;
+  font-weight: 800;
+  line-height: 30px;
+  color: rgb(88, 101, 242);
+}
+
+.lignf {
+  border: none;
+  position: absolute;
+  background: rgb(88, 101, 242);
+  margin-top: 380px;
+  height: 0.5px;
+  width: 90%;
+  margin-left: 70px;
+}
+.part6 img {
+  height: 110px;
+  width: 190px;
+  margin-top: 370px;
+  margin-left: 50px;
+}
+#Btn2 {
+  float: right;
+  margin-bottom: 10px;
+  position: relative;
+}
+#Btn2 input[type="button"] {
+  position: absolute;
+  color: white;
+  background-color: rgb(88, 101, 242);
+  margin: 410px 80px 0px 750px;
+  height: 40px;
+  width: 120px;
+  border-radius: 25px;
+  border: none;
+}
